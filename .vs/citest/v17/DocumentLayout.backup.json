@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kolya\\source\\repos\\citest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A11E948-70A2-4C9C-AB80-F3A8124C73E7}|citest\\citest.csproj|c:\\users\\kolya\\source\\repos\\citest\\citest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A11E948-70A2-4C9C-AB80-F3A8124C73E7}|citest\\citest.csproj|solutionrelative:citest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 176,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Kolya\\source\\repos\\citest\\citest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "citest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Kolya\\source\\repos\\citest\\citest\\UnitTest1.cs*",
+              "RelativeToolTip": "citest\\UnitTest1.cs*",
+              "ViewState": "AgIAACsAAAAAAAAAAADwv1sAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:18:37.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
