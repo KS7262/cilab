@@ -22,9 +22,6 @@ jobs:
     - name: Відновити залежності
       run: dotnet restore
 
-    - name: Надати права на selenium-manager
-      run: chmod +x lab3Test/bin/Debug/net6.0/selenium-manager/linux/selenium-manager
-
     - name: Побудувати рішення
       run: dotnet build --no-restore
 

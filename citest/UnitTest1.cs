@@ -21,7 +21,6 @@ namespace lab3Test
 
             options.AddArgument($"--user-data-dir={tempProfileDir}");
 
-            // Увімкни headless-режим лише для CI середовища
             if (Environment.GetEnvironmentVariable("CI") == "true")
             {
                 options.AddArgument("--headless");
