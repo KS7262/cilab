@@ -22,6 +22,10 @@ jobs:
     - name: Відновити залежності
       run: dotnet restore
 
+
+    - name: Make selenium-manager executable
+      run: chmod +x $(find . -type f -name selenium-manager)
+
     - name: Побудувати рішення
       run: dotnet build --no-restore
 
